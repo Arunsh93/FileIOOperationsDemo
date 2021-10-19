@@ -1,0 +1,14 @@
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.exe
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.deps.json
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.runtimeconfig.json
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.runtimeconfig.dev.json
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.dll
+E:\ASP.NET\FileIOOperations\bin\Debug\netcoreapp3.1\FileIOOperations.pdb
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.csproj.AssemblyReference.cache
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.AssemblyInfoInputs.cache
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.AssemblyInfo.cs
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.dll
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.pdb
+E:\ASP.NET\FileIOOperations\obj\Debug\netcoreapp3.1\FileIOOperations.genruntimeconfig.cache
