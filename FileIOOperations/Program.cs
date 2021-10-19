@@ -7,17 +7,19 @@ namespace FileIOOperations
     {
         static void Main(string[] args)
         {
-            //FileExist();
-            /*ReadFromTheFile();
+            FileExist();
+            ReadFromTheFile();
             DeleteFile();
-            CopyFile();*/
+            CopyFile();
 
-            /*StreamReaderDemo readerDemo = new StreamReaderDemo();
-            //readerDemo.ReadFromStreamReader();
-            readerDemo.WriteUsingStreamWriter();*/
+            StreamReaderDemo readerDemo = new StreamReaderDemo();
+            readerDemo.ReadFromStreamReader();
+            readerDemo.WriteUsingStreamWriter();
 
             BinarySerialize binarySerialize = new BinarySerialize();
             binarySerialize.Serialization();
+
+            binarySerialize.DeSerialization();
            
         }
 

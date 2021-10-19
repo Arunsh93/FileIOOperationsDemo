@@ -21,12 +21,13 @@ namespace FileIOOperations
             BinaryFormatter binaryFormatter = new BinaryFormatter();
             Demo deserializeDemo = (Demo)binaryFormatter.Deserialize(fileStream);
 
-            Console.WriteLine($"ApplicationName: " + deserializeDemo.ApplicationName);
-            Console.WriteLine($"ApplicationId: " + deserializeDemo.ApplicationId);
+            Console.WriteLine($"ApplicationName: {deserializeDemo.ApplicationName} --- ApplicationId: {deserializeDemo.ApplicationId}");
+            
         }
 
     }
 
+    [Serializable]
     public class Demo
     {
         public string ApplicationName { get; set; } = "Binary Serialize";
